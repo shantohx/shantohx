@@ -14,7 +14,5 @@ Project Management Stack: SCRUM, Agile Methodology, KanBan, XP</br>
 <p>As an entrepreneur, I always strive for better ways to solve problem. 
 With people like you on my side, together we can change the world in a better place. </p>
 
-Get in touch 
-
 <p>Email: shantohx@gmail.com</p>
 <p>LinkedIn: https://www.linkedin.com/in/shanto-datta/<p>
